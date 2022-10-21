@@ -1,0 +1,30 @@
+{
+  "name": "miyoo-bot",
+  "version": "1.0.0",
+  "description": "A bot that alerts if MiyooMini V3 is in stock on Aliexpress's official Miyoo store.",
+  "main": "miyooBot.js",
+  "scripts": {
+    "dev": "nodemon miyooBot.js",
+    "start": "node miyooBot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "node-schedule": "^2.1.0",
+    "puppeteer": "^19.0.0"
+  },
+  "prettier": {
+    "semi": false,
+    "arrowParens": "avoid",
+    "singleQuote": true,
+    "tabWidth": 4,
+    "bracketSpacing": true,
+    "trailingComma": "none",
+    "printWidth": 100
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

@@ -2,11 +2,9 @@ miyooBot is a NodeJS (with Puppeteer) script that alerts if the Miyoo Mini v3 is
 
 ## Examples
 
-Miyoo Mini V3 is available (CLI)
+<img src="https://raw.githubusercontent.com/tk-ni/miyooBot/master/assets/cli_example_full.jpg">
 
-<img src="https://raw.githubusercontent.com/tk-ni/miyooBot/master/assets/cli_available_example_full.jpg" width="600px">
-
-Notification
+<img src="https://raw.githubusercontent.com/tk-ni/miyooBot/master/assets/cli_available_example.jpg">
 
 <img src="https://raw.githubusercontent.com/tk-ni/miyooBot/master/assets/notification_image.jpg" width="300px">
 

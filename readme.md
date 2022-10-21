@@ -36,11 +36,17 @@ Unzip it if necessary and open a terminal in the respected directory
 ```
 cd miyooBot
 ```
+Install the script's dependencies by running 
 
-Run the miyooBot.js file using node
+```
+npm install
+```
+
+Finally run the miyooBot.js file using node or run npm start
 
 ```
 node miyooBot.js
 ```
 
 The script should now run, it will check the official Aliexpress store every minute and alert you if the Miyoo Mini v3 is in stock.
+

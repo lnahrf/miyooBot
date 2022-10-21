@@ -1,4 +1,4 @@
-miyooBot is a NodeJS (with Puppeteer) script that alerts if the Miyoo Mini v3 is available in the Aliexpress official store.
+### miyooBot is a NodeJS (with Puppeteer) script that alerts if the Miyoo Mini v3 is available in the Aliexpress official store.
 
 ## Examples
 
